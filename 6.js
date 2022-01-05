@@ -1,1 +1,3 @@
-function hello() {}
+function hello() {
+    console.log("DNYANESHWAR");
+}
